@@ -1,3 +1,2 @@
 Correct message
-Incorrect message with commit
 
